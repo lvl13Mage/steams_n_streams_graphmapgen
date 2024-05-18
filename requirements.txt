@@ -1,0 +1,6 @@
+networkx
+matplotlib
+numpy
+pygame
+pygame_gui
+scipy
